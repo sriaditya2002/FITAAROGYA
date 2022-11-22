@@ -45,12 +45,16 @@ This is a web based application developed for health related website
 
 ## Primary Azure Technology used-
 1. Microsoft Azure portal
+
 ![image](https://user-images.githubusercontent.com/99586030/203255272-1834e7c9-2aa4-4398-8ead-b132d13f2b99.png)
 
+
 2.App Services and Web app
+
 ![image](https://user-images.githubusercontent.com/99586030/203255631-c6f05713-c69c-4efe-8d1f-3df6143cbc6f.png)
 
 
 ## Tech Stack 
 -Microsoft Azure
+
 -HTML
